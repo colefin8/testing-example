@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component tests for TestMe component component renders the same each time if given same input 1`] = `
+<div
+  style={
+    Object {
+      "backgroundColor": "white",
+      "border": "1px solid black",
+      "color": "black",
+      "fontSize": "48px",
+      "height": "300px",
+      "margin": "300px auto",
+      "width": "300px",
+    }
+  }
+>
+  cole
+</div>
+`;
